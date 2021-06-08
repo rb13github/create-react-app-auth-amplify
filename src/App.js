@@ -23,6 +23,7 @@ class App extends Component {
           >
             Learn React
           </a>
+RB smaple learning
         </header>
       </div>
     );
